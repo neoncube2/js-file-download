@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/kennethjiang/js-file-download",
   "typings": "js-file-download.d.ts",
+  "sideEffects": false,
   "devDependencies": {
     "eslint": "^5.8.0"
   }
